@@ -1,2 +1,0 @@
-# CodeForces
-Codeforces Questions
